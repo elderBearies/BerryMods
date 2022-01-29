@@ -32,7 +32,7 @@ namespace BerryMods
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "Berry_";
         public const string PluginName = "BerryMods";
-        public const string PluginVersion = "0.0.1";
+        public const string PluginVersion = "1.0.0";
         public List<ArtifactBase> Artifacts = new List<ArtifactBase>();
         public static AssetBundle MainAssets;
 

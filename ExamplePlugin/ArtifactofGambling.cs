@@ -13,8 +13,8 @@ namespace BerryMods
 		public override string ArtifactName => "Artifact of Gambling";
 		public override string ArtifactLangTokenName => "ARTIFACT_OF_GAMBLING";
 		public override string ArtifactDescription => "Adds a chance for items to be duplicated, as well as a chance to lose items.";
-		public override Sprite ArtifactEnabledIcon => MainAssets.LoadAsset<Sprite>("ArtifactOfGamblingOn.png");
-		public override Sprite ArtifactDisabledIcon => MainAssets.LoadAsset<Sprite>("ArtifactOfGamblingOff.png");
+		public override Sprite ArtifactEnabledIcon => MainAssets.LoadAsset<Sprite>("RoR2GamblingActive.png");
+		public override Sprite ArtifactDisabledIcon => MainAssets.LoadAsset<Sprite>("RoR2GamblingInactive.png");
 		public override void Init(ConfigFile config)
 		{
 			CreateConfig(config);

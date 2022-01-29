@@ -14,10 +14,12 @@
 
   <ItemGroup>
     <None Remove="modassets" />
+    <None Remove="modassets.manifest" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="modassets" />
+    <EmbeddedResource Include="modassets.manifest" />
   </ItemGroup>
 
   <ItemGroup>
