@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4167333509
+CRC: 4200351498
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3f547471eb701018b12433f6d3c3f37b
+    Hash: ec005ac90f23a3f7005e1b1023a3497b
   TypeTreeHash:
     serializedVersion: 2
     Hash: ea5a42e0fd8ea905efa7aa926a3b8944
@@ -14,8 +14,10 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
+- Assets/Textures/Icons/Artifact/RoR2FlightActive.png
 - Assets/Textures/Icons/Artifact/RoR2UnluckyInactive.png
 - Assets/Textures/Icons/Artifact/RoR2UnluckyActive.png
+- Assets/Textures/Icons/Artifact/RoR2FlightInactive.png
 - Assets/Textures/Icons/Artifact/RoR2GamblingActive.png
 - Assets/Textures/Icons/Artifact/RoR2GamblingInactive.png
 Dependencies: []

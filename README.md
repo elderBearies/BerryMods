@@ -1,6 +1,6 @@
 # BerryArtifacts
 
-This is a collection of artifacts made by elderBearies#2112, with artifact icons made by Dadadogdog#6097! Currently includes the Artifacts of Gambling and Jynxes.
+This is a collection of artifacts made by elderBearies#2112, with artifact icons made by Dadadogdog#6097! Currently includes the Artifacts of Gambling, Jynxes, and the Wind.
 Huge thanks to TheMysticSword#9770 for helping me learn hooks!
 
 ## Artifact of Gambling
@@ -22,7 +22,15 @@ Please note that this artifact applies to *all* inventories. That includes the m
 The Artifact of Jynxes is an artifact that gives you bad luck. Really bad luck. Like, three Puritys bad.
 When you start a run with this artifact, your luck is set to -3. Clover and Purity can of course still raise and lower your luck as they normally would.
 
+## Artifact of the Wind
+
+The Artifact of the Wind is an artifact that makes everything fly. Simple as that.
+
 ## Changelog
+
+**1.3.0**
+
+* Added the Artifact of the Wind!
 
 **1.2.0**
 
